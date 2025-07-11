@@ -7,5 +7,5 @@
 - 📖 `I’m currently learning`: How it is universitary life.
 - 💛 `I love`: Cats and Minecraft (of course).
 - 💬 `Ask me about`: pampas' grass. No, really.
-- 🏹 `How to reach me`: give a coffee and an interesting talk.
+- 🏹 `How to reach me`: give me a coffee and an interesting talk.
 - 🤡 `Fun fact`: do you know that ponds are bigger than puddles?
