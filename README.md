@@ -1,16 +1,11 @@
-## Hi there 👋
+## <p align=center>Hi there!👋</p>
 
-<!--
-**MarMar1134/MarMar1134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 `My name is`: Mar Mar
+- 📆`I'm`: 19 years old
+- ♂️ `Pronouns`: he/him.
+- 👷‍♂️ `I’m currently working on`: Enhanced Playthrough, my beloved one.
+- 📖 `I’m currently learning`: How it is universitary life.
+- 💛 `I love`: Cats and Minecraft (of course).
+- 💬 `Ask me about`: pampas' grass. No, really.
+- 🏹 `How to reach me`: give a coffee and an interesting talk.
+- 🤡 `Fun fact`: do you know that ponds are bigger than puddles?
